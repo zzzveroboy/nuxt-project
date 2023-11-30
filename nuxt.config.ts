@@ -3,4 +3,5 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@vexip-ui/nuxt"],
   ssr: false,
+  dev: true,
 });
